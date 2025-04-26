@@ -1,0 +1,61 @@
+# Add necessary Python libraries here# Core Requirements for Mind-for-AGI Project
+
+# Deep Learning
+torch>=2.1
+tensorflow>=2.15
+keras>=2.15
+
+# Data Processing
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Neuroscience & Signal Processing
+mne>=1.7     # For EEG, brainwave data handling
+scipy>=1.12
+
+# NLP (for ancient text processing)
+transformers>=4.38
+nltk>=3.8
+
+# Utilities
+jupyter
+notebook
+
+# Future (if working with graphs or brain connectomes)
+networkx
+# Core Requirements for Mind-for-AGI Project
+
+# Deep Learning
+torch>=2.1
+tensorflow>=2.15
+keras>=2.15
+
+# Data Processing
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Neuroscience & Signal Processing
+mne>=1.7     # For EEG, brainwave data handling
+scipy>=1.12
+
+# NLP (for ancient text processing)
+transformers>=4.38
+nltk>=3.8
+
+# Utilities
+jupyter
+notebook
+
+# Future (if working with graphs or brain connectomes)
+networkx
+

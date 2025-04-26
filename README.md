@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Mind-for-AGI Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -44,3 +45,7 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) before submitting PRs.
 
 _"No ego. Only Mind."_
 
+=======
+# mind_for-agi
+Mind-for-AGI is an open project where neurologists, engineers, doctors, monks, and philosophers collaborate to understand the mind and engineer the future of intelligence
+>>>>>>> aaa0db7236b8969950c3f952cdf6cf62f699e66c
